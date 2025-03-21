@@ -29,6 +29,18 @@ Love design or code? Here’s how you can roll with us:
 
 ---
 
+## 👥 Meet the Crew
+Our team’s the heartbeat of Creative X—here’s who’s making it happen:
+- **Elmer** - *Lead UI Designer*: Shapes killer interfaces with a hawk’s eye for detail. Figma’s their playground.
+- **Jimmy** - *Code-Design Bridge*: Speaks both dev and design fluently—keeps the team synced with TypeScript finesse.
+- **Marj** - *Design-Dev Hybrid*: Bridges the gap with pixel precision and React magic.
+- **Angie** - *UX Storyteller*: Crafts vibes that click with users. Sketchpad’s never far.
+- **Daryll** - *Front-End Maestro*: Codes fluid layouts that dance on any screen. ReactJS and NextJS are their weapons.
+- **Yverre** - *Prototyping Pro*: Turns ideas into clickable magic in record time. Figma’s their sidekick.
+- **Josh** - *UX Researcher*: Digs into user minds to craft flows that click. Whiteboard sketches are their vibe.
+
+---
+
 ## 🍿 Fun Facts
 - **Breakfast Fuel**: Coffee’s king, but we’ve got a pancake guy and a cereal stan. Keeps the creativity flowing!
 - **Quirk**: Our Slack’s 50% memes, 50% mockups—balance is everything.
