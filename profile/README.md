@@ -17,13 +17,13 @@ We’re **Creative X**, a tight-knit crew of UI/UX designers and front-end devel
 ## 🌈 How to Jump In
 Love design or code? Here’s how you can roll with us:
 - **Contribute**: Fork our repos, tweak designs, or sling some CSS/JS—PRs welcome!
-- **Chat**: Hit us up in issues or [email us](mailto:team@creativex.com) with ideas.
+- **Chat**: Hit us up in issues or [email us](mailto:elmer@nms.ph) with ideas.
 - **Stay Open**: We dig collaboration—bring your A-game and respect the vibe.
 
 ---
 
 ## 👩‍💻 Resources & Goodies
-- **Docs**: Check our [wiki](https://github.com/creativex-team/wiki) for design specs and code guides.
+- **Docs**: Check our [website](https://design.nmscreative.com/) for design specs and code guides.
 - **Tools**: We’re Figma fanatics and live in VS Code—join the party.
 - **Heads-Up**: Repos are public, but WIP—expect some rough edges!
 
@@ -32,7 +32,3 @@ Love design or code? Here’s how you can roll with us:
 ## 🍿 Fun Facts
 - **Breakfast Fuel**: Coffee’s king, but we’ve got a pancake guy and a cereal stan. Keeps the creativity flowing!
 - **Quirk**: Our Slack’s 50% memes, 50% mockups—balance is everything.
-
----
-
-Powered by [Markdown magic](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)—let’s build something epic! 🧙
